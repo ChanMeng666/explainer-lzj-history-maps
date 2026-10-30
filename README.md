@@ -8,7 +8,7 @@
 
 </div>
 
-The ideas and the quotations are Liu Zhongjing's. The maps are built from public-domain Natural Earth data; no image or video generation model, photograph or stock footage is used for the picture. Companion series: [Liu Zhongjing in Watercolour](https://github.com/ChanMeng666/lzj-watercolor-films).
+The ideas and the quotations are Liu Zhongjing's. The maps are built from public-domain Natural Earth data; no image or video generation model, photograph or stock footage is used for the picture. Companion series: [Liu Zhongjing in Watercolour](https://github.com/ChanMeng666/explainer-lzj-watercolour).
 
 ## The films
 

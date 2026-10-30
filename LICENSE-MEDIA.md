@@ -2,7 +2,7 @@
 
 The films, scores, map designs, posters and other images (`docs/images/`) made by Chan Meng in this repository are licensed under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-Credit: "Liu Zhongjing's History, in Maps, by Chan Meng (https://github.com/ChanMeng666/lzj-history-maps), CC BY 4.0. Ideas and quotations by Liu Zhongjing. Map data: Natural Earth."
+Credit: "Liu Zhongjing's History, in Maps, by Chan Meng (https://github.com/ChanMeng666/explainer-lzj-history-maps), CC BY 4.0. Ideas and quotations by Liu Zhongjing. Map data: Natural Earth."
 
 The code is MIT-licensed separately ([LICENSE](LICENSE)).
 

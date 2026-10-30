@@ -1,5 +1,5 @@
 {
-  "name": "lzj-history-maps",
+  "name": "explainer-lzj-history-maps",
   "private": true,
   "type": "module",
   "scripts": { "render": "node render.mjs" },

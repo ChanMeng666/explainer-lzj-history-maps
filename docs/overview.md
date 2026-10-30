@@ -6,7 +6,7 @@
 
 **Eleven animated map documentaries that retell the history of the land now called China, of the People's Republic, and of the world as the historian and political theorist Liu Zhongjing (劉仲敬) reads it.** The maps are drawn entirely in code: a WebGL and Canvas renderer flies a camera over an orthographic globe built from public-domain Natural Earth data, colours historical regions, draws campaign arrows, trade streams, walls and fronts, and keeps a year counter in the corner. Headless Chrome renders every frame in parallel and ffmpeg adds an original score played on recorded instruments. No image or video generation model, photograph or stock footage is used for the picture.
 
-This is the companion to [Liu Zhongjing in Watercolour](https://github.com/ChanMeng666/lzj-watercolor-films). Those films explain his ideas; these films put the ideas on the map. Each film has 10 to 12 chapters. Every captioned quotation is verbatim from his books, lectures, interviews or posts, and carries its source on screen. Where a scene gives a plain historical fact rather than his reading, it is labelled as such.
+This is the companion to [Liu Zhongjing in Watercolour](https://github.com/ChanMeng666/explainer-lzj-watercolour). Those films explain his ideas; these films put the ideas on the map. Each film has 10 to 12 chapters. Every captioned quotation is verbatim from his books, lectures, interviews or posts, and carries its source on screen. Where a scene gives a plain historical fact rather than his reading, it is labelled as such.
 
 ## The films
 
